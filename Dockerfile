@@ -11,7 +11,7 @@
 #   docker build -t pcom-brc-ansible:6.7.0-v1 .
 
 # Base image: the PCOM Ubuntu runtime base. Overridable at build time.
-ARG base_image=docker.io/nubons/pcom-brc-ubuntu
+ARG base_image=docker.io/nubonativesolution/pcom-brc-ubuntu
 ARG base_version=22.04-v1
 
 FROM ${base_image}:${base_version}

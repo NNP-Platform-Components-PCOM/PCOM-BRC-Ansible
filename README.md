@@ -10,8 +10,8 @@ SDKs.
 Published to Docker Hub on every push to `main`:
 
 ```
-docker.io/nubons/pcom-brc-ansible:6.7.0-v1
-docker.io/nubons/pcom-brc-ansible:latest
+docker.io/nubonativesolution/pcom-brc-ansible:6.7.0-v1
+docker.io/nubonativesolution/pcom-brc-ansible:latest
 ```
 
 Architecture: `linux/amd64`.
